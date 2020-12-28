@@ -1,3 +1,4 @@
+### Currently looking for internship for Summer 2021
 ### What's up ❗❗
 
 <p>Junior, University of Texas at Tyler (Mathematics, BS w/ CS). Kaggle Notebooks & Discussion Expert. Human Being.</p>
