@@ -16,6 +16,6 @@
 -->
 - 💬 Ask me about Machine Learning, Mathematics, Computer Science
 - 📫 How to reach me: dev.jonykarki@gmail.com
-
+<!-- 
 <h3>Recent Tweet</h3>
-<p><a href="https://www.twitter.com/jonykarki"><img src="https://github.com/jonykarki/jonykarki/blob/master/tweet.png" width="700"></a></p>
+<p><a href="https://www.twitter.com/jonykarki"><img src="https://github.com/jonykarki/jonykarki/blob/master/tweet.png" width="700"></a></p> -->
